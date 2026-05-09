@@ -101,7 +101,7 @@ São paulo (SP) averages 8.7 days — fastest in the country. Remote states like
 
 ## files in this repository
 
-**schema_and_import.sql** — creates the olistanalysis database, defines all 8 tables, and loads the csv data using bulk insert. Run this first. Requires the csv files to be placed in c:\database on your local machine.
+**schema_and_import.sql** - creates the olistanalysis database, defines all 8 tables, and loads the csv data using bulk insert. Run this first. Requires the csv files to be placed in c:\database on your local machine.
 
 **analysis.sql** — contains all 8 analysis queries. Each query has a comment explaining what business question it answers and what the logic is. Queries are written in lowercase sql with no unnecessary formatting.
 
