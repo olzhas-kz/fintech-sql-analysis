@@ -12,7 +12,7 @@ All analysis was done in sql server using ssms. The results were visualized in p
 
 ## dashboard preview
 
-![dashboard](dashboard_screenshot.png)
+![dashboard](Power-BI_dashboard_screenshot.png)
 
 > power bi dashboard built on top of the sql analysis. download the pbix file from [google drive](https://drive.google.com/file/d/1Bjf5JoepIeK__wFZMET5atWlgUkhdAVO/view?usp=sharing)
 
